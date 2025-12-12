@@ -237,7 +237,7 @@ This project is created for educational purposes as part of a frontend developer
 
 ## 👤 Author
 
-**MUSKAN KASAT**
+**KESHAV VASU**
 - GitHub: 
 - Email: vkxshxv77@gmaail.com
 
