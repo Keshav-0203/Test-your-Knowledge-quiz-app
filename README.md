@@ -238,8 +238,8 @@ This project is created for educational purposes as part of a frontend developer
 ## 👤 Author
 
 **MUSKAN KASAT**
-- GitHub: https://github.com/muskan-kasat/Test-your-knowlege-quiz-app
-- Email: muskankasat5@gmail.com
+- GitHub: 
+- Email: vkxshxv77@gmaail.com
 
 ## 🙏 Acknowledgments
 
