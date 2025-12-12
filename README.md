@@ -46,7 +46,7 @@ This is a fully functional quiz application that allows users to test their know
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd muskan
+   cd Test-your-knowlege-quiz-app
    ```
 
 2. **Install dependencies**
