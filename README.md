@@ -238,7 +238,7 @@ This project is created for educational purposes as part of a frontend developer
 ## 👤 Author
 
 **KESHAV VASU**
-- GitHub: 
+- GitHub: https://https://github.com/Keshav-0203/Test-your-Knowledge-quiz-app
 - Email: vkxshxv77@gmaail.com
 
 ## 🙏 Acknowledgments
